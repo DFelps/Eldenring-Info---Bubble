@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "mode": "mock",
+    "updated_at": "2026-03-01",
+    "note": "Sample ranking data for UI/demo purposes."
+  },
+  "type": "characters",
+  "metric": { "label": "pick_rate", "unit": "percent" },
+  "data": [
+    { "rank": 1, "id": "ranni-inspired-sorcerer", "name": "Ranni-inspired Sorcerer", "value": 14.1 },
+    { "rank": 2, "id": "knight-vanguard", "name": "Knight Vanguard", "value": 13.4 },
+    { "rank": 3, "id": "blood-duelist", "name": "Blood Duelist", "value": 12.2 },
+    { "rank": 4, "id": "faith-paladin", "name": "Faith Paladin", "value": 11.6 },
+    { "rank": 5, "id": "dex-assassin", "name": "Dex Assassin", "value": 10.9 },
+    { "rank": 6, "id": "colossal-bruiser", "name": "Colossal Bruiser", "value": 9.7 },
+    { "rank": 7, "id": "arcane-bleed-hunter", "name": "Arcane Bleed Hunter", "value": 8.8 },
+    { "rank": 8, "id": "frost-battlemage", "name": "Frost Battlemage", "value": 7.9 }
+  ]
+}
