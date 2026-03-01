@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "mode": "mock",
+    "updated_at": "2026-03-01",
+    "note": "Sample telemetry data for UI/demo purposes."
+  },
+  "data": {
+    "most_lethal_field_boss": {
+      "id": "royal-carian-knight",
+      "name": "Royal Carian Knight",
+      "metric": { "label": "wipe_rate", "value": 18.7, "unit": "percent" }
+    },
+    "most_used_gesture": {
+      "id": "golden-order-totality",
+      "name": "Golden Order Totality",
+      "metric": { "label": "usage_share", "value": 22.4, "unit": "percent" }
+    },
+    "most_played_character": {
+      "id": "ranni-inspired-sorcerer",
+      "name": "Ranni-inspired Sorcerer",
+      "metric": { "label": "pick_rate", "value": 14.1, "unit": "percent" }
+    },
+    "most_used_weapon_category": {
+      "id": "greatsword",
+      "name": "Greatsword",
+      "metric": { "label": "equip_share", "value": 19.1, "unit": "percent" }
+    },
+    "highest_death_zone": {
+      "id": "liurnia-lakeshore",
+      "name": "Liurnia Lakeshore",
+      "metric": { "label": "deaths_per_100_runs", "value": 64.0, "unit": "count" }
+    },
+    "fastest_field_boss_kill": {
+      "id": "bell-bearing-hunter",
+      "name": "Bell Bearing Hunter",
+      "metric": { "label": "best_time", "value": 47.8, "unit": "seconds" }
+    }
+  }
+}
