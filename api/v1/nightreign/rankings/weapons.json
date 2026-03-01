@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "mode": "mock",
+    "updated_at": "2026-03-01",
+    "note": "Sample ranking data for UI/demo purposes."
+  },
+  "type": "weapons",
+  "metric": { "label": "equip_share", "unit": "percent" },
+  "data": [
+    { "rank": 1, "id": "greatsword", "name": "Greatsword", "value": 19.1 },
+    { "rank": 2, "id": "katana", "name": "Katana", "value": 16.8 },
+    { "rank": 3, "id": "staff", "name": "Staff", "value": 14.6 },
+    { "rank": 4, "id": "spear", "name": "Spear", "value": 11.9 },
+    { "rank": 5, "id": "colossal-weapon", "name": "Colossal Weapon", "value": 10.7 },
+    { "rank": 6, "id": "curved-sword", "name": "Curved Sword", "value": 9.3 },
+    { "rank": 7, "id": "bow", "name": "Bow", "value": 8.1 },
+    { "rank": 8, "id": "fist-claw", "name": "Fist / Claw", "value": 6.4 }
+  ]
+}
