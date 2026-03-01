@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "mode": "mock",
+    "updated_at": "2026-03-01",
+    "note": "Sample ranking data for UI/demo purposes."
+  },
+  "type": "field_bosses",
+  "metric": { "label": "wipe_rate", "unit": "percent" },
+  "data": [
+    { "rank": 1, "id": "royal-carian-knight", "name": "Royal Carian Knight", "value": 18.7 },
+    { "rank": 2, "id": "draconic-tree-sentinel", "name": "Draconic Tree Sentinel", "value": 16.2 },
+    { "rank": 3, "id": "erdtree-avatar", "name": "Erdtree Avatar", "value": 14.9 },
+    { "rank": 4, "id": "bell-bearing-hunter", "name": "Bell Bearing Hunter", "value": 13.8 },
+    { "rank": 5, "id": "pot-troll", "name": "Pot-Troll", "value": 12.6 },
+    { "rank": 6, "id": "black-blade-kindred", "name": "Black Blade Kindred", "value": 11.4 },
+    { "rank": 7, "id": "death-rite-bird", "name": "Death Rite Bird", "value": 10.9 },
+    { "rank": 8, "id": "ulcerated-tree-spirit", "name": "Ulcerated Tree Spirit", "value": 9.8 }
+  ]
+}
