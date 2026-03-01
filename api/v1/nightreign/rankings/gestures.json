@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "mode": "mock",
+    "updated_at": "2026-03-01",
+    "note": "Sample ranking data for UI/demo purposes."
+  },
+  "type": "gestures",
+  "metric": { "label": "usage_share", "unit": "percent" },
+  "data": [
+    { "rank": 1, "id": "golden-order-totality", "name": "Golden Order Totality", "value": 22.4 },
+    { "rank": 2, "id": "spread-out", "name": "Spread Out", "value": 18.3 },
+    { "rank": 3, "id": "bravo", "name": "Bravo!", "value": 12.7 },
+    { "rank": 4, "id": "bow", "name": "Bow", "value": 9.6 },
+    { "rank": 5, "id": "patches-crouch", "name": "Patches' Crouch", "value": 8.2 },
+    { "rank": 6, "id": "polite-bow", "name": "Polite Bow", "value": 7.4 },
+    { "rank": 7, "id": "crossed-legs", "name": "Crossed Legs", "value": 6.6 },
+    { "rank": 8, "id": "jump-for-joy", "name": "Jump for Joy", "value": 5.9 },
+    { "rank": 9, "id": "triumphant-delight", "name": "Triumphant Delight", "value": 5.1 },
+    { "rank": 10, "id": "its-raining", "name": "It's Raining!", "value": 3.8 }
+  ]
+}
