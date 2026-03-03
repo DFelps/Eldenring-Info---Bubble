@@ -12,7 +12,7 @@ This project is currently **in progress (V1)** and has been under development fo
 
 Here is a preview of the initial interface:
 
-![Project Screenshot](https://github.com/DFelps/Eldenring-Info---Bubble/blob/main/initial-version-screenshot-day2.png)
+![Project Screenshot](https://github.com/DFelps/Eldenring-Info---Bubble/blob/main/version-screenshot-day3.png)
 
 ## Video Walkthrough
 
