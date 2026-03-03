@@ -1,6 +1,6 @@
-# Eldenring Info - Bubble
+# NightReign Universe - Bubble
 
-**Eldenring Info - Bubble** is a web application built in Bubble that showcases content from *Elden Ring*. The goal of this project is to organize and present game data such as news, items, monsters, and more.  
+**NightReign Universe - Bubble** is a web application built in Bubble that showcases content from *Elden Ring*. The goal of this project is to organize and present game data such as news, items, monsters, and more.  
 
 The project demonstrates the use of APIs to pull dynamic content and implements key Bubble features including workflows, repeating groups, toggles, and e-commerce functionality through Stripe sandbox integration.
 
