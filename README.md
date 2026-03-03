@@ -6,7 +6,9 @@ The project demonstrates the use of APIs to pull dynamic content and implements 
 
 ## Project Status
 
-This project is currently **in progress (V1)** and has been under development for **1 day**. The platform is actively being built, and features will continue to be added and improved over time.
+This project is currently in active development (V1). 
+The platform is being structured with a strong focus on scalability, performance, and clean architecture. 
+New features and refinements will continue to be introduced as the system evolves.
 
 ## Screenshot
 
